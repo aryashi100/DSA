@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/aryashi100/DSA/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/aryashi100/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aryashi100/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aryashi100/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aryashi100/DSA/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/aryashi100/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
