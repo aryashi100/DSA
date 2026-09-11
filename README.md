@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/aryashi100/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/aryashi100/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aryashi100/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryashi100/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aryashi100/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aryashi100/DSA/tree/master/0048-rotate-image) |
 | [0973-k-closest-points-to-origin](https://github.com/aryashi100/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aryashi100/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aryashi100/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
