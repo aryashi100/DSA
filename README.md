@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aryashi100/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aryashi100/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryashi100/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0303-range-sum-query-immutable](https://github.com/aryashi100/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/aryashi100/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aryashi100/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0560-subarray-sum-equals-k](https://github.com/aryashi100/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -141,5 +142,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aryashi100/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/aryashi100/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aryashi100/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
