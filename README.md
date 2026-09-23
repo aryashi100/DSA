@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/aryashi100/DSA/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/aryashi100/DSA/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/aryashi100/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryashi100/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aryashi100/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryashi100/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/aryashi100/DSA/tree/master/0692-top-k-frequent-words) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryashi100/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aryashi100/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryashi100/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryashi100/DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryashi100/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Design
 |  |
 | ------- |
