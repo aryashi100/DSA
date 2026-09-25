@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aryashi100/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0523-continuous-subarray-sum](https://github.com/aryashi100/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aryashi100/DSA/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/aryashi100/DSA/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/aryashi100/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/aryashi100/DSA/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/aryashi100/DSA/tree/master/0724-find-pivot-index) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aryashi100/DSA/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/aryashi100/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/aryashi100/DSA/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/aryashi100/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/aryashi100/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/aryashi100/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aryashi100/DSA/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/aryashi100/DSA/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/aryashi100/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryashi100/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryashi100/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -172,9 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/aryashi100/DSA/tree/master/0528-random-pick-with-weight) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryashi100/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryashi100/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/aryashi100/DSA/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
