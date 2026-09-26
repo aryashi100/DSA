@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/aryashi100/DSA/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/aryashi100/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/aryashi100/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/aryashi100/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aryashi100/DSA/tree/master/0056-merge-intervals) |
@@ -145,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aryashi100/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryashi100/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryashi100/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/aryashi100/DSA/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aryashi100/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryashi100/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryashi100/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Quicksort
