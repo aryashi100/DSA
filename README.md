@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aryashi100/DSA/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/aryashi100/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/aryashi100/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/aryashi100/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/aryashi100/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aryashi100/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aryashi100/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aryashi100/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aryashi100/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aryashi100/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aryashi100/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aryashi100/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aryashi100/DSA/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/aryashi100/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aryashi100/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aryashi100/DSA/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/aryashi100/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aryashi100/DSA/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/aryashi100/DSA/tree/master/0763-partition-labels) |
