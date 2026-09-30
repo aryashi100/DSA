@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aryashi100/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aryashi100/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/aryashi100/DSA/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/aryashi100/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aryashi100/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/aryashi100/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aryashi100/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/aryashi100/DSA/tree/master/0076-minimum-window-substring) |
 | [0451-sort-characters-by-frequency](https://github.com/aryashi100/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aryashi100/DSA/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/aryashi100/DSA/tree/master/0763-partition-labels) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/aryashi100/DSA/tree/master/0076-minimum-window-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryashi100/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Randomized
 |  |
