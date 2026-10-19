@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryashi100/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/aryashi100/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/aryashi100/DSA/tree/master/0076-minimum-window-substring) |
 | [0451-sort-characters-by-frequency](https://github.com/aryashi100/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -155,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryashi100/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/aryashi100/DSA/tree/master/0031-next-permutation) |
 | [0763-partition-labels](https://github.com/aryashi100/DSA/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryashi100/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/aryashi100/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryashi100/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryashi100/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/aryashi100/DSA/tree/master/0528-random-pick-with-weight) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryashi100/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
